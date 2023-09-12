@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.App{
+  background-color: rgb(113, 177, 214);
+  margin: 10px;
+  padding: 10px;
+  border: 4px solid blue;
+}
+.divs{
+  color: rgb(6, 53, 54);
+  background-color: rgb(104, 168, 168);
+  border: 4px solid rgb(238, 239, 240);
+  padding: 4px;
+  margin: 15px;
+  border-radius: 10px;
+}
